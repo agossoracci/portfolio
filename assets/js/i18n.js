@@ -26,7 +26,7 @@
       "hero.title": "Encuentro la historia<br> detrás de cada idea.<br> <span class=\"text-accent\">Y la cuento.</span>",
       "hero.lede": "Soy Agostina Soracci, Comunicadora Social. Construyo contenidos y estrategias que conectan marcas, medios y audiencias, desde un piso de televisión en vivo hasta una estrategia de contenidos digital.",
       "hero.ctaProjects": "Ver proyectos",
-      "hero.ctaContact": "Escribime",
+      "hero.ctaContact": "Escríbeme",
 
       "signal.kicker": "Base",
       "signal.route": "Santiago de Chile <span class=\"arrow\">⇄</span> Buenos Aires, Argentina",
@@ -168,7 +168,7 @@
       "skills.g4i4": "Google Workspace (Sheets, Docs y más)",
 
       "contacto.heading": "Hablemos",
-      "contacto.intro": "La comunicación efectiva empieza con la escucha. Escribime y seguimos la conversación.",
+      "contacto.intro": "La comunicación efectiva empieza con la escucha. Escríbeme y seguimos la conversación.",
       "contacto.email": "Email",
       "contacto.cv": "Currículum",
       "contacto.cvValue": "Descargar PDF",
